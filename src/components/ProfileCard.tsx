@@ -4,7 +4,7 @@ const ProfileCard = () => {
   return (
     <div className="text-center mb-8 animate-fade-in bg-transparent">
       <Avatar className="w-24 h-24 mx-auto mb-4 ring-4 ring-purple-500/20">
-        {/* <AvatarImage src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&h=150&fit=crop&crop=face" /> */}
+        <AvatarImage src="https://cdn.poehali.dev/files/791155ef-6583-4679-9124-2e97c11978a4.jpg" />
         <AvatarFallback className="bg-gradient-to-br from-purple-500 to-pink-500 text-white text-2xl font-bold">
           A
         </AvatarFallback>
