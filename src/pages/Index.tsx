@@ -61,9 +61,7 @@ const Index = () => {
 
           {/* Футер */}
           <div className="mt-8 pt-6 border-t border-white/10">
-            <p className="text-center text-gray-500 text-sm">
-              Создано с ❤️ на Поехали!
-            </p>
+            <p className="text-center text-gray-500 text-sm"></p>
           </div>
         </div>
       </div>
