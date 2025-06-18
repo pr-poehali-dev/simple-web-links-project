@@ -14,7 +14,7 @@ const ProfileCard = () => {
         Alex Strelok
       </h1>
 
-      <p className="text-gray-400 text-lg">Стример и контент-мейкер</p>
+      <p className="text-gray-400 text-lg">твич и тгк</p>
     </div>
   );
 };
